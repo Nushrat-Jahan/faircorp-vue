@@ -23,3 +23,6 @@ npm run build
 ```
 npm run lint
 ```
+
+
+[Docker content](https://v2.vuejs.org/v2/cookbook/dockerize-vuejs-app.html)
